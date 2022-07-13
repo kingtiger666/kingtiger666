@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am CryptoStar, a **Fullstack Blockchain Developer** (specializing in **Ethereum and Solana**). I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2014.
+🎓 I am CryptoStar, a **Fullstack Blockchain Developer** (specializing in **Ethereum and Solana**).
 
 👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**]() and [**Blogging**](https://dev.to/kingtiger666) quite recently and made a name for myself.
 
